@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# Generated code
+#server/*
+
+# Logs
+logs
+
+# IDE - VSCode
+.vscode/*
+
+images/
+
+data.json
