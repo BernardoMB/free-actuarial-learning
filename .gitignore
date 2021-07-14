@@ -1,15 +1,14 @@
 # dependencies
 node_modules
 
-# Generated code
-#server/*
-
 # Logs
 logs
 
 # IDE - VSCode
 .vscode/*
 
-images/
+images/*.png
 
 data.json
+
+output.pdf
