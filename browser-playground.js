@@ -1,5 +1,3 @@
-// STOP! Read ACTEX's Copy right first.
-
 var canvasClass = "canvas0";
 var elements = document.getElementsByClassName(canvasClass);
 var canvas = elements[0];
